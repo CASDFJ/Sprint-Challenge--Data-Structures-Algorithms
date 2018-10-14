@@ -5,7 +5,11 @@ Exercise I
 a) O(n^3) because of the time it takes for the while condition to
 stop.
 
+Real answer is O(n)
+
 b) Would be O(n^4) due to the fact that their are 4 for loops
+
+Real answer is O(n)
 
 c) O(n)
 
